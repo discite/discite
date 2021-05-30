@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Discite
 #### I am a Electronic and Telecommunication Engineer with knowledge in Cloud/OnPremise Infraestructure looking to be a rennaisance man
-![I am a Electronic and Telecommunication Engineer with knowledge in Cloud/OnPremise Infraestructure looking to be a rennaisance man](https://raw.githubusercontent.com/discite/discite/main/school-of-athens.webp)
+![I am a Electronic and Telecommunication Engineer with knowledge in Cloud/OnPremise Infraestructure looking to be a rennaisance man](https://raw.githubusercontent.com/discite/discite/main/banner-school-of-athens.webp)
 
 This is my little site/app/program/profile of tools i develop for Web(Soon) /Mobile (Soon)/Desktop and a corner to develop and share knowledge, culture and cheatsheets based in the topics i know.
 
