@@ -6,8 +6,8 @@ This is my little site/app/program/profile of tools i develop for Web(Soon) /Mob
 
 Skills: KUBERNETES / LINUX / DOCKER / ANSBILE / GIT / ANSIBLE 
 
-- 🔭 I’m currently working on https://discite.dev 
-- 🌱 I’m currently learning Flutter and CKA 
+- 🔭 I’m currently working on https://discite.dev (soon) 
+- 🌱 I’m currently learning CKS and Terraform 
 - 👯 I’m looking to collaborate on Hard Projects that can challange me like Kernel Development 
 - 📫 How to reach me: Reach me by my Linkedin or write me to my mail 
 
